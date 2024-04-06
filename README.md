@@ -3,7 +3,7 @@
 <br/>
 
 
-- 📕 Etudiant en Double Master, Génie Logiciel et Management Technologiqueset Scientifiques  
+- 📕 Etudiant en Double Master, Génie Logiciel et Management Technologies et Sciences  
   
 
 - 🌐 [Mon site](https://portofoliothomaslaguerre.netlify.app/)  
