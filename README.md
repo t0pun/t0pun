@@ -3,8 +3,9 @@
 <br/>
 
 
-- 📕 Etudiant en Double Master, Génie Logiciel et Management Technologies et Sciences  
-  
+- 📕 Etudiant en Double Master, Génie Logiciel et Management Technologies et Sciences
+
+- 📫 Pour me contacter **thomaslaguerr@gmail.com**
 
 - 🌐 [Mon site](https://portofoliothomaslaguerre.netlify.app/)  
   
