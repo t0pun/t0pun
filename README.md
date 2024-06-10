@@ -7,7 +7,7 @@
 
 - 📫 Pour me contacter **thomaslaguerr@gmail.com**
 
-- 🌐 [Mon site](https://portofoliothomaslaguerre.netlify.app/)  
+- 🌐 [Mon site](https://portofoliolaguerrethomas.netlify.app/)  
   
 
 <br/>  
